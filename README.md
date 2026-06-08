@@ -10,8 +10,6 @@ The objective of this task was to build an interactive Tic-Tac-Toe game using HT
 
 ## 🚀 Live Demo
 
-Add your GitHub Pages link here:
-
 ```text
 https://koayush1310.github.io/SCT_WD_3/
 ```
